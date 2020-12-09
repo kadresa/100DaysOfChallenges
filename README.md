@@ -5,7 +5,7 @@
  
 | DAYS | DIFFICULTY | PROBLEM | LANGUAGE |
 | --- | --- | --- | --- |
-| [Day of 1 ](https://www.google.com) | EASY | Symmetric Tree  | JAVA |
+| [Day of 1 ](https://github.com/kadresa/100DaysOfChallenges/blob/main/symmetricTree1.java) | EASY | Symmetric Tree  | JAVA |
 | Day 2 | MEDIUM | Palindrome Partitioning      | JAVA |
 | Day 3 | MEDIUM | Clone Graph      | JAVA |
 | Day 4 | MEDIUM |   | JAVA |

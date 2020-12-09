@@ -3,7 +3,7 @@
 
 JANUARY
  
-| Route | HTTP Verb | POST body | Description |
+| JANURAY | DIFFICULTY | PROBLEM | LANGUAGE |
 | --- | --- | --- | --- |
 | /api/movies | `GET` | Empty | List all movies. |
 | /api/movies | `POST` | {'title':'foo', 'category':'bar', 'country':'Turkey', year:1990, director:"id", imdb_score: 9.7 } | Create a new movie. |

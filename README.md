@@ -5,7 +5,7 @@
  
 | DAYS | DIFFICULTY | PROBLEM | LANGUAGE |
 | --- | --- | --- | --- |
-| [Google](https://www.google.com) | MEDIUM | Symmetric Tree  | JAVA |
+| [Day of 1 ](https://www.google.com) | MEDIUM | Symmetric Tree  | JAVA |
 | Day 2 | MEDIUM | Palindrome Partitioning      | JAVA |
 | Day 3 | MEDIUM | Clone Graph      | JAVA |
 | Day 4 | MEDIUM |   | JAVA |

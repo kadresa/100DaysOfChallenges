@@ -1,11 +1,11 @@
 # 365DaysOfChallenges
 100 Problems to Keep Your Algorithm Alive in 100 days
 
-JANUARY
+#JANUARY
  
-| JANURAY | DIFFICULTY | PROBLEM | LANGUAGE |
+| DAYS | DIFFICULTY | PROBLEM | LANGUAGE |
 | --- | --- | --- | --- |
-| /api/movies | `GET` | Empty | List all movies. |
+| Day 1 | MEDIUM | 101. Symmetric Tree  | JAVA |
 | /api/movies | `POST` | {'title':'foo', 'category':'bar', 'country':'Turkey', year:1990, director:"id", imdb_score: 9.7 } | Create a new movie. |
 | /api/movies/:movie_id | `GET` | Empty | Get a movie. |
 | /api/movies/:movie_id | `PUT` | {'name':'foo', 'surname':'bar'} | Update a movie with new info. |

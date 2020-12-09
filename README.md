@@ -5,28 +5,40 @@
  
 | DAYS | DIFFICULTY | PROBLEM | LANGUAGE |
 | --- | --- | --- | --- |
-| Day 1 | MEDIUM | 101. Symmetric Tree  | JAVA |
-| /api/movies | `POST` | {'title':'foo', 'category':'bar', 'country':'Turkey', year:1990, director:"id", imdb_score: 9.7 } | Create a new movie. |
-| /api/movies/:movie_id | `GET` | Empty | Get a movie. |
-| /api/movies/:movie_id | `PUT` | {'name':'foo', 'surname':'bar'} | Update a movie with new info. |
-| /api/movies/:movie_id | `DELETE` | Empty | Delete a movie. |
-| /api/movies/top10 | `GET` | Empty | Get the top 10 movies. |
-| /api/movies/between/:start_year/:end_year | `GET` | Empty | Movies between two dates. |
- 
-# Directors
- 
-| Route | HTTP Verb | POST body | Description |
-| --- | --- | --- | --- |
-| /api/directors | `GET` | Empty | List all directors. |
-| /api/directors | `POST` | { name: 'foo', surname:'bar', bio:'lorem ipsum' } | Create a new director. |
-| /api/directors/:director_id | `GET` | Empty | Get a director. |
-| /api/directors/:director_id | `PUT` | {'name':'foo', 'surname':'bar', 'bio': 'lorem'} | Update a director with new info. |
-| /api/directors/:director_id | `DELETE` | Empty | Delete a director. |
-| /api/directors/:director_id/best10movie | `GET` | Empty | The director's top 10 films. |
- 
-# Index
- 
-| Route | HTTP Verb | POST body | Description |
-| --- | --- | --- | --- |
-| /register | `POST` | { username: 'foo', password:'1234' } | Create a new user. |
-| /authenticate | `POST` | { username: 'foo', password:'1234' } | Generate a token. |
+| Day 1 | MEDIUM | Symmetric Tree  | JAVA |
+| Day 2 | MEDIUM | Palindrome Partitioning      | JAVA |
+| Day 3 | MEDIUM | Clone Graph      | JAVA |
+| Day 4 | MEDIUM |   | JAVA |
+| Day 5 | MEDIUM |   | JAVA |
+| Day 6 | MEDIUM |   | JAVA |
+| Day 7 | MEDIUM |   | JAVA |
+| Day 8 | MEDIUM |   | JAVA |
+| Day 9 | MEDIUM |   | JAVA |
+| Day 10 | MEDIUM |   | JAVA |
+| Day 11 | MEDIUM |   | JAVA |
+| Day 12 | MEDIUM |   | JAVA |
+| Day 13 | MEDIUM |   | JAVA |
+| Day 14 | MEDIUM |   | JAVA |
+| Day 15 | MEDIUM |   | JAVA |
+| Day 16 | MEDIUM |   | JAVA |
+| Day 17 | MEDIUM |   | JAVA |
+| Day 18 | MEDIUM |   | JAVA |
+| Day 19 | MEDIUM |   | JAVA |
+| Day 20 | MEDIUM |   | JAVA |
+| Day 21 | MEDIUM |   | JAVA |
+| Day 22 | MEDIUM |   | JAVA |
+| Day 23 | MEDIUM |   | JAVA |
+| Day 24 | MEDIUM |   | JAVA |
+| Day 25 | MEDIUM |   | JAVA |
+| Day 26 | MEDIUM |   | JAVA |
+| Day 27 | MEDIUM |   | JAVA |
+| Day 28 | MEDIUM |   | JAVA |
+| Day 29 | MEDIUM |   | JAVA |
+| Day 30 | MEDIUM |   | JAVA |
+| Day 31 | MEDIUM |   | JAVA |
+
+
+
+
+
+

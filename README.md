@@ -7,7 +7,7 @@
 | --- | --- | --- | --- |
 | [Day of 1 ](https://github.com/kadresa/100DaysOfChallenges/tree/main/Day1_SymmetricTree) | EASY | Symmetric Tree  | JAVA |
 | [Day of 2 ](https://github.com/kadresa/100DaysOfChallenges/tree/main/Day2_Palindrome) | EASY | Valid Palindrome      | JAVA |
-| Day 3 | MEDIUM | Clone Graph      | JAVA |
+| [Day of 3 ](https://github.com/kadresa/100DaysOfChallenges/tree/main/Day3_Palindrome)| EASY | Depth of Binary Tree  | JAVA |
 | Day 4 | MEDIUM |   | JAVA |
 | Day 5 | MEDIUM |   | JAVA |
 | Day 6 | MEDIUM |   | JAVA |
